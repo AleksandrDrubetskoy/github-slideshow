@@ -1,5 +1,6 @@
+---
 yout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is AleksandrDrubetskoy's slide
 Use the left arrow to go back!
